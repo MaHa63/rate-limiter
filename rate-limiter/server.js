@@ -22,9 +22,6 @@ var kplPerSecond   = 1;						// Requests per second
 var num        	   = 0;						// Big loop
 
 
-
-
-
 // This is own sleep function, because javascript doesn't contain sleep 
 
 const sleep = (milliseconds) => {
