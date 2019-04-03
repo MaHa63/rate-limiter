@@ -12,6 +12,10 @@
 //		requests, the speed will be increased. If the request can't be served,
 //		the the request speed will be decreased,
 //
+//		Libraries:
+//		Nodemon
+//		Axios
+//
 //-----------------------------------------------------------------------------
 const axios = require('axios');  			// Axios HTTP 
 
